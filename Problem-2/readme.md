@@ -34,5 +34,6 @@ Ensure the following are installed:
    git clone https://github.com/your-repo/license-plate-recognition.git
    cd license-plate-recognition
 2. Install the Dependicies:
+  ```bash
    pip install opencv-python pytesseract numpy
 
